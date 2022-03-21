@@ -15,5 +15,4 @@ public class PaintingDetailsPage extends BasePage {
         String factualValue = getText(By.xpath("//*[contains (@class, 'item-label') and text()='" + key + "']/following-sibling::*[contains (@class, 'item-value')]"));
         assert(factualValue.equals(expectedValue));
     }
-
 }
