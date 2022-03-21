@@ -1,0 +1,77 @@
+{
+  "uid" : "b1b23f9ad575eee9",
+  "name" : "Open collection page",
+  "fullName" : "CollectionTest.openCollectionTest",
+  "historyId" : "5342f9cbfa37200481c737badcc3e654",
+  "time" : {
+    "start" : 1647869379276,
+    "stop" : 1647869390475,
+    "duration" : 11199
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az152-53"
+  }, {
+    "name" : "thread",
+    "value" : "2225@fv-az152-53.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "CollectionTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CollectionTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "openCollectionTest"
+  }, {
+    "name" : "suite",
+    "value" : "CollectionTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ba01a695391436c9",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/ideal-eureka-gm/3//#testresult/ba01a695391436c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647868690779,
+          "stop" : 1647868721176,
+          "duration" : 30397
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b1b23f9ad575eee9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,31 @@
+[ {
+  "uid" : "d0529a7f59565971",
+  "name" : "Painting search from the search box",
+  "time" : {
+    "start" : 1647869390646,
+    "stop" : 1647869395263,
+    "duration" : 4617
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1b23f9ad575eee9",
+  "name" : "Open collection page",
+  "time" : {
+    "start" : 1647869379276,
+    "stop" : 1647869390475,
+    "duration" : 11199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ae18d4e4ab2a84d",
+  "name" : "Select the painting from the search results",
+  "time" : {
+    "start" : 1647869395271,
+    "stop" : 1647869400859,
+    "duration" : 5588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

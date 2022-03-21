@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "CollectionTest",
+    "children" : [ {
+      "name" : "openCollectionTest",
+      "uid" : "b1b23f9ad575eee9",
+      "parentUid" : "980cb81575d952a682acf681cce451ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647869379276,
+        "stop" : 1647869390475,
+        "duration" : 11199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "paintingSearchTest",
+      "uid" : "d0529a7f59565971",
+      "parentUid" : "980cb81575d952a682acf681cce451ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647869390646,
+        "stop" : 1647869395263,
+        "duration" : 4617
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "selectPaintingTest",
+      "uid" : "6ae18d4e4ab2a84d",
+      "parentUid" : "980cb81575d952a682acf681cce451ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647869395271,
+        "stop" : 1647869400859,
+        "duration" : 5588
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "980cb81575d952a682acf681cce451ac"
+  } ],
+  "name" : "packages"
+}

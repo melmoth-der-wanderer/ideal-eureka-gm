@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az152-53",
+    "children" : [ {
+      "name" : "2225@fv-az152-53.main(1)",
+      "children" : [ {
+        "name" : "Painting search from the search box",
+        "uid" : "d0529a7f59565971",
+        "parentUid" : "6e1a087ac56cf1a5b20293990afe2895",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647869390646,
+          "stop" : 1647869395263,
+          "duration" : 4617
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Open collection page",
+        "uid" : "b1b23f9ad575eee9",
+        "parentUid" : "6e1a087ac56cf1a5b20293990afe2895",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647869379276,
+          "stop" : 1647869390475,
+          "duration" : 11199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Select the painting from the search results",
+        "uid" : "6ae18d4e4ab2a84d",
+        "parentUid" : "6e1a087ac56cf1a5b20293990afe2895",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647869395271,
+          "stop" : 1647869400859,
+          "duration" : 5588
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e1a087ac56cf1a5b20293990afe2895"
+    } ],
+    "uid" : "e38f1ca53f7c8a4b76aa6eef6dac07c3"
+  } ],
+  "name" : "timeline"
+}
