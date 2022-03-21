@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 21 13:30:22 GMT 2022","Mon Mar 21 13:30:27 GMT 2022","5133","","CollectionTest","","CollectionTest","selectPaintingTest","Select the painting from the search results",""
+"passed","Mon Mar 21 13:30:19 GMT 2022","Mon Mar 21 13:30:22 GMT 2022","2457","","CollectionTest","","CollectionTest","paintingSearchTest","Painting search from the search box",""
+"passed","Mon Mar 21 13:30:08 GMT 2022","Mon Mar 21 13:30:19 GMT 2022","11167","","CollectionTest","","CollectionTest","openCollectionTest","Open collection page",""

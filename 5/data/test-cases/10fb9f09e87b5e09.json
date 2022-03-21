@@ -1,0 +1,86 @@
+{
+  "uid" : "10fb9f09e87b5e09",
+  "name" : "Select the painting from the search results",
+  "fullName" : "CollectionTest.selectPaintingTest",
+  "historyId" : "79d17d0e74901613ad3c689dea226c00",
+  "time" : {
+    "start" : 1647869422286,
+    "stop" : 1647869427419,
+    "duration" : 5133
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az96-806"
+  }, {
+    "name" : "thread",
+    "value" : "2185@fv-az96-806.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "CollectionTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CollectionTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectPaintingTest"
+  }, {
+    "name" : "suite",
+    "value" : "CollectionTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "6ae18d4e4ab2a84d",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/ideal-eureka-gm/4//#testresult/6ae18d4e4ab2a84d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647869395271,
+          "stop" : 1647869400859,
+          "duration" : 5588
+        }
+      }, {
+        "uid" : "d4d1a5a2818f2221",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/ideal-eureka-gm/3//#testresult/d4d1a5a2818f2221",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647868725730,
+          "stop" : 1647868735502,
+          "duration" : 9772
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "10fb9f09e87b5e09.json",
+  "parameterValues" : [ ]
+}

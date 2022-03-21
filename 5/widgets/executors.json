@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://melmoth-der-wanderer.github.io/ideal-eureka-gm",
+  "buildOrder" : 5,
+  "buildName" : "GitHub Actions Run #2016370918",
+  "buildUrl" : "https://github.com/melmoth-der-wanderer/ideal-eureka-gm/actions/runs/2016370918",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://melmoth-der-wanderer.github.io/ideal-eureka-gm/5/"
+} ]

@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "CollectionTest",
+    "children" : [ {
+      "name" : "Open collection page",
+      "uid" : "b76fb13c4953a010",
+      "parentUid" : "4e3bbcdbe6192efeee5e8f0d42143c04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647869408518,
+        "stop" : 1647869419685,
+        "duration" : 11167
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Painting search from the search box",
+      "uid" : "a23f13c50c35c033",
+      "parentUid" : "4e3bbcdbe6192efeee5e8f0d42143c04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647869419824,
+        "stop" : 1647869422281,
+        "duration" : 2457
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Select the painting from the search results",
+      "uid" : "10fb9f09e87b5e09",
+      "parentUid" : "4e3bbcdbe6192efeee5e8f0d42143c04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647869422286,
+        "stop" : 1647869427419,
+        "duration" : 5133
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4e3bbcdbe6192efeee5e8f0d42143c04"
+  } ],
+  "name" : "suites"
+}
