@@ -2,6 +2,7 @@
 Test execution results: [![Allure Report](https://img.shields.io/badge/Allure%20Report-deployed-yellowgreen)](https://melmoth-der-wanderer.github.io/ideal-eureka-gm/)
 ---
 Project: Van Gogh Museum: https://www.vangoghmuseum.nl/nl
+
 ---
 
 ### Technology
